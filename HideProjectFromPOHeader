@@ -1,0 +1,5 @@
+ <script>
+var sheet = document.createElement('style')
+sheet.innerHTML = "#_obj__PROJECT.form-control, #span__obj__PROJECT.input-group-addon.dropdown-toggle, #label_obj__PROJECT {display: none !important;}";
+document.body.appendChild(sheet);
+</script>
